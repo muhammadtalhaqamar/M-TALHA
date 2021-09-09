@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammad Talha - PAk [techquestkp][website] 👋
 
-###[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%MTBQ&screen_name=MTQB)
+[![Website](https://img.shields.io/website?label=MUHAMMADTALHA&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MTQB?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%MTBQ&screen_name=MTQB)
 
 ## I'm a Developer !!
 
@@ -95,10 +95,10 @@
 
 [website]: https://www.facebook.com/TechQuestkp
 <!-- [course]: http://vsCodeHero.com -->
-[twitter]: https://twitter.com/TechQuestkp
+[twitter]: https://twitter.com/MTQB
 [youtube]: https://youtube.com/TechQuestkp
 [instagram]: https://instagram.com/TechQuestkp
-[linkedin]: https://linkedin.com/in/TechQuestkp
+[linkedin]: https://www.linkedin.com/in/muhammad-talha-519070170/
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
